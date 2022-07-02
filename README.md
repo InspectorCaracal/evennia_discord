@@ -1,6 +1,6 @@
 # Discord <-> Evennia
 
-A (relatively) easy-to-use chat integration between a Discord channel and an Evennia channel.
+A (relatively) easy-to-use, unofficial chat integration between a Discord channel and an Evennia channel.
 
 This implementation uses `beanstalkd` to relay the messages - so while this setup is designed to all be run from the same folder, you can easily have your discord bot on a separate machine entirely from evennia. 
 
